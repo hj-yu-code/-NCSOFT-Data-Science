@@ -43,4 +43,4 @@ Mobius는 oneM2M 국제 표준을 기반으로 한 IoT 플랫폼이다. 이때 o
 - nodemcu_아두이노lib_test.zip
 
  Mobius와 MCU를 연동하는 과정에서 진행한 테스트 코드이다.
- Mobius를 거치지 않고 바로 DB에 접근할 수 있는 코드들이 들어있다.
+ Mobius를 거치지 않고 바로 DB에 접근할 수 있는 코드나 핸드폰으로 컨트롤링하는 코드 이 들어있다.
