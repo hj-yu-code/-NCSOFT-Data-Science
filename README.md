@@ -28,25 +28,32 @@ Mobius는 oneM2M 국제 표준을 기반으로 한 IoT 플랫폼이다. 이때 o
 - [NCSOFT] Data Science_Data Engineering_(유혜정).pptx
 
 'mobius_guide.pptx'에 있는 내용을 압축하여 프로젝트의 진행 결과물을 정리한 자료이다.
+
 자세한 내용이 필요하다면 'mobius_guide.pptx'를 참고하면 된다.
+
 
 - mobius 코드 분석.pptx
 
  MCU 보드의 최적화를 위해 main 코드를 분석한 내용이다.
+ 
 
 - mobius_guide.pptx
 
  진행한 프로젝트를 정리하고, 이를 남들이 알아보기 쉽도록 작성한 자료이다.
+ 
 
 - nCube-Air-featherM0.zip
 
  featherM0 MCU에 최적화된 코드이다.
+ 
 
 - nCube-Air-nodemcu.zip
 
  nodemcu MCU에 최적화된 코드이다.
+ 
 
 - nodemcu_아두이노lib_test.zip
 
  Mobius와 MCU를 연동하는 과정에서 진행한 테스트 코드이다.
+ 
  Mobius를 거치지 않고 바로 DB에 접근할 수 있는 코드나 핸드폰으로 컨트롤링하는 코드 이 들어있다.
