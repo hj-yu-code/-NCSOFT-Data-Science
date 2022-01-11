@@ -1,5 +1,3 @@
-# [NCSOFT] Data Science_Data Engineering_(유혜정)
-
 ## Mobius를 활용한 IoT 데이터 수집부 구현
 
 Mobius는 oneM2M 국제 표준을 기반으로 한 IoT 플랫폼이다. 이때 oneM2M은 IoT 기술을 위한 국제표준을 만든 단체이다. 이 단체는 클라우드 서버와 관련하여, 데이터 정규화를 위해 TTA(한국), ETSI(유럽), ATIS/TIA(미국), CCSA(중국), ARIB/TTC(일본) 등 7개 기관이 공동으로 구성되어 있으며, IoT 국제표준 단체 중 가장 큰 파이를 가지고 있다. 이 oneM2M 국제 표준을 기반으로 KETi(한국전자기술연구원)에서 만든 플랫폼이 ‘Mobius’이다. 이 플랫폼을 바탕으로 서버와 MCU와 연동하여 IoT 구축을 진행하였다.
